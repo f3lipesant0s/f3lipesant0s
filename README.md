@@ -1,5 +1,5 @@
 Olá, meu nome é Felipe Sou estudante de Análise e Desenvolvimento de Sistemas com uma forte paixão por programação e desenvolvimento de software. Atualmente, estou focado em adquirir e aprimorar habilidades em linguagens de marcação e estilo, como HTML e CSS, e em linguagens de programação, como JavaScript e SQL.
-Estou aberto a oportunidades de estágio e projetos freelance que me permitam continuar aprendendo e expandindo minhas habilidades.Sou estudante de Análise e Desenvolvimento de Sistemas com uma forte paixão por programação e desenvolvimento de software. Atualmente, estou focado em adquirir e aprimorar habilidades em linguagens de marcação e estilo, como HTML e CSS, e em linguagens de programação, como JavaScript e SQL. Estou aberto a oportunidades de estágio e projetos freelance que me permitam continuar aprendendo e expandindo minhas habilidades.
+Estou aberto a oportunidades de estágio e projetos freelance que me permitam continuar aprendendo e expandindo minhas habilidades.
 
 - 🌱 Estudando desenvolvimento web
 
