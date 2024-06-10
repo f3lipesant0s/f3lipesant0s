@@ -5,7 +5,7 @@ Estou aberto a oportunidades de estágio e projetos freelance que me permitam co
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=f3lipesant0s&show_icons=true&theme=transparent)
 ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f3lipesant0s&hide_progress=true&theme=transparent)
 
 
 <div style="display: inline_block"><br>
